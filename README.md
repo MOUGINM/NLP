@@ -1,4 +1,4 @@
-              #Florian BESSON & Mehdi MOUGIN 
+# Florian BESSON & Mehdi MOUGIN 
 
 Ce projet fournit un script Python pour analyser des données textuelles culinaires. Il extrait et compte les occurrences d'ingrédients et de techniques de cuisine à partir d'un fichier CSV, puis exporte les résultats dans un fichier Excel pour une analyse plus approfondie.
 
